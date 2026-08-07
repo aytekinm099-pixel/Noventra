@@ -1,56 +1,77 @@
-# 🐉 NOVENTRA
+<p align="center">
+  <img src="logo.png" width="220">
+</p>
+
+<h1 align="center">NOVENTRA</h1>
 
 <p align="center">
-Building the future of secure, transparent and decentralized infrastructure.
+Trust • Transparency • Security
 </p>
+
+<p align="center">
+Building the future of decentralized infrastructure.
+</p>
+## 🌍 About
+
+NOVENTRA is a next-generation Web3 infrastructure project focused on building secure, transparent, and scalable decentralized solutions.
+
+We believe blockchain technology should be accessible, reliable, and community-driven.
 
 ---
 
-## 🌍 About
+## 🎯 Mission
 
-NOVENTRA is a next-generation Web3 ecosystem focused on trust, transparency, and security.
+Empower developers, businesses, and communities with innovative decentralized technologies.
 
-Our mission is to create decentralized products that are simple, scalable, and accessible to everyone.
+---
 
-## ✨ Vision
+## 🔥 Vision
 
-To become one of the leading blockchain ecosystems by delivering innovative and secure decentralized solutions.
+To become one of the world's most trusted Web3 ecosystems.
 
-## 🚀 Features
+---
 
-- Secure Infrastructure
-- Transparent Ecosystem
-- Community Driven
-- Web3 Ready
-- Scalable Architecture
+## ⚡ Core Values
 
-## 🗺 Roadmap
+- Trust
+- Transparency
+- Security
+- Innovation
+- Community First
+
+---
+
+## 🚀 Roadmap
 
 ### Phase 1
-- Brand Launch
-- Community Building
-- GitHub Repository
+- Brand Identity
+- GitHub
 - Documentation
+- Community Launch
 
 ### Phase 2
 - Website
 - Litepaper
 - Smart Contracts
-- Community Growth
+- Testnet
 
 ### Phase 3
-- Product Launch
-- Ecosystem Expansion
+- Mainnet Products
 - Partnerships
+- Ecosystem Growth
+
+---
 
 ## 🤝 Community
 
-Follow NOVENTRA and join our community.
+Twitter (Coming Soon)
 
-- X (Twitter)
-- Telegram
-- GitHub
+Telegram (Coming Soon)
 
-## 📜 License
+Website (Coming Soon)
+
+---
+
+## 📄 License
 
 MIT License
